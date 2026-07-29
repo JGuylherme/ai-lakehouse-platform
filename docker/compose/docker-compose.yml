@@ -1,0 +1,7 @@
+services: {}
+
+networks:
+  lakehouse-network:
+    name: lakehouse-network
+
+volumes: {}
