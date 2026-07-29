@@ -51,9 +51,9 @@ ai-lakehouse-platform/
 ## Roadmap
 
 * [x] Project initialization
-* [ ] Environment setup
-* [ ] Architecture design
-* [ ] Docker infrastructure
+* [x] Environment setup
+* [x] Architecture design
+* [X] Docker infrastructure
 * [ ] Data Lakehouse
 * [ ] Data ingestion
 * [ ] Streaming with Kafka
